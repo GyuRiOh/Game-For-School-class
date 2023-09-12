@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: a3a3ed9dbe6bbb742b3f28bf821085a8
+timeCreated: 1528523493
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - UpOpened: {fileID: 21300000, guid: 3b7aa763145ed2e4990d6f6a9cf38882, type: 3}
+  - UpClosed: {fileID: 21300000, guid: edf054d0b29bf2145b2bf6348ba0e9c2, type: 3}
+  - DownOpened: {fileID: 21300000, guid: ac528ca3d44878a43b2bdaa2f015bb96, type: 3}
+  - DownClosed: {fileID: 21300000, guid: a5d70d2cec78b2144bf1477aa9c8313a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,24 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Fade\StaticNextScene.cs">
+    <Files>
+      <File FileName="Assets\F1\F1R1\F1R1W3\FishPuzzle\Fish_Move.cs" Line="1" Column="1" />
+      <File FileName="Assets\F1\F1R1\F1R1W3\FishPuzzle\F1R1W3_KeyEye.cs" Line="1" Column="1" />
+      <File FileName="Assets\화면전환호출.cs" Line="1" Column="1" />
+      <File FileName="Assets\F1\F1R1\F1R1W2\legButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\F1\F1R1\F1R1W3\fishingport.cs" Line="1" Column="1" />
+      <File FileName="Assets\F1\F1R1\F1R1W3\Wallclock_u.cs" Line="1" Column="1" />
+      <File FileName="Assets\F1\F1R1\F1R1W1\window.cs" Line="1" Column="1" />
+      <File FileName="Assets\F1\F1R1\F1R1W1\F1R1W1_Handle.cs" Line="1" Column="1" />
+      <File FileName="Assets\F1\F1R1\F1R1W4\Bed.cs" Line="1" Column="1" />
+      <File FileName="Assets\Fade\StaticNextScene.cs" Line="9" Column="2" />
+      <File FileName="Assets\Fade\AdditionalLoad.cs" Line="1" Column="1" />
+      <File FileName="Assets\SceneChange.cs" Line="108" Column="44" />
+      <File FileName="Assets\Fade\FadeWithoutImage.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

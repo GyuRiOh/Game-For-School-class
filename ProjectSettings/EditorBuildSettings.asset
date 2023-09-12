@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/InterfaceStart.unity
+    guid: 68920590f41367e479a7cc299d3633bb
+  - enabled: 1
+    path: Assets/SwitchWall/SwitchWallUI.unity
+    guid: 90293a00d3b257c4785f9532db74f70d
+  - enabled: 0
+    path: Assets/F1R0W2.unity
+    guid: 0d13f6ded4e4cf348bd27d4a0ca5aff4
+  - enabled: 0
+    path: Assets/F1R0W3.unity
+    guid: 84f86dc6536bd4d48889d5a1e1111c35
+  - enabled: 0
+    path: Assets/F1R0W4.unity
+    guid: 8f026ad647d36144b9a1fc6e68ffe831
+  - enabled: 1
+    path: Assets/Inventory/Inventory.unity
+    guid: 67b7bd0ccb8a8dc4396bb3f307125c9c
+  - enabled: 1
+    path: Assets/F1R1W1.unity
+    guid: 862b3d1a4e2ad19439750ab3264f3ae8
+  - enabled: 1
+    path: Assets/Fade/FadeWithoutImage.unity
+    guid: b1c2caebe6a3f2245a996baf82239ae9
+  - enabled: 0
+    path: Assets/ToStartTree.unity
+    guid: ad3250e75c36b6545b4f7332bc5efb37
+  - enabled: 1
+    path: Assets/F1R0W1.unity
+    guid: 5d0c7808624161d4f89230d3a83744ac
+  - enabled: 1
+    path: Assets/F1R1W2.unity
+    guid: 690703499caeac54d8417d87d0932a6b
+  - enabled: 1
+    path: Assets/F1R1W3.unity
+    guid: 427fa9dca73e7454784863c5f6dde6d4
+  - enabled: 1
+    path: Assets/Fade/FadeWhite.unity
+    guid: 08f6e3cda85821248af5582b4e68d141
+  - enabled: 1
+    path: Assets/F1R1W4.unity
+    guid: 3ced50143e69ad847ac32b06b6beccf8
+  - enabled: 1
+    path: Assets/F1R1W1_puzzle.unity
+    guid: b7807014f1295ed41a54ca4f5576dd6e
+  - enabled: 1
+    path: Assets/F1R1W2_puzzle.unity
+    guid: 7f7928a9e81657144b96b72f4910d821
+  - enabled: 1
+    path: Assets/F1R1W4_puzzle.unity
+    guid: 8796e43bb7dc3b44a93cc0a7d04b9752
+  - enabled: 1
+    path: Assets/Fade/FadeWithoutImage_fast.unity
+    guid: 66b5bce5e15dabd4694628791e3c52f3
+  - enabled: 1
+    path: Assets/F1R1W3_Clockpuzzle.unity
+    guid: dd2452ee919d04a4c91601618ce60518
+  - enabled: 1
+    path: Assets/F1R1W3_Fishpuzzle.unity
+    guid: b82057381c48cfd46974edce3ec9ad14
+  - enabled: 1
+    path: Assets/F1R1W2_Cellphonepuzzle.unity
+    guid: 4a11d6fdcadf75b4bbe342f1cdfe52f8
+  - enabled: 1
+    path: Assets/F1R1W2_DiaryPuzzle.unity
+    guid: 1478d6775a41e484e99d2f7a43ec0fc4

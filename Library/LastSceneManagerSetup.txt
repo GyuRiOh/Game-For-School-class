@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/F1R1W4.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
